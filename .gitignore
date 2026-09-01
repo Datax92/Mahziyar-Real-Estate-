@@ -1,0 +1,10 @@
+# OS / editor cruft
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+.vscode/
+.idea/
+
+# Dependencies (none needed to run this site)
+node_modules/
